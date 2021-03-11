@@ -9,5 +9,7 @@
 
 - references **http://www.cluemediator.com/login-app-create-login-form-in-reactjs-using-secure-rest-api-part-3**
 
+- run :  npm install cors body-parser jsonwebtoken dotenv --save
+
 Politeknik Negeri Malang
 
