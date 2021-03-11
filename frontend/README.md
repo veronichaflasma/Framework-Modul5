@@ -10,5 +10,11 @@
 
 - references **http://www.cluemediator.com/login-app-create-login-form-in-reactjs-using-secure-rest-api-part-3**
 
+- npm install
+- npm install –save bootstrap
+- npm install bootstrap jquery –save
+- npm install popper.js –save
+- npm install react-owl-carousel2
+- 
 Politeknik Negeri Malang
 
