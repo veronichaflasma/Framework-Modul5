@@ -1,19 +1,13 @@
-# auth-api-nodejs
-Create REST API for authentication in Node.js using JWT
+## Programming Framework - Modul 5
+# Backend nodejs for task modul 5 
 
-Please check the below link for step by step tutorial
-**https://www.cluemediator.com/create-rest-api-for-authentication-in-node-js-using-jwt**
+- Name : Flasma Veronicha Hendryanna
 
-## Setup
-Follow below steps to run project
+- Class : TI - 3 G
 
-1. Clone repository
-2. Run `npm i` command to install dependencies
-3. Execute `npm start` command to run the project
+- NIM : 1841720217
 
-### Connect with us:
-Website: https://www.cluemediator.com  
-Facebook: https://www.facebook.com/thecluemediator  
-Twitter: https://twitter.com/cluemediator  
-Telegram: https://t.me/cluemediator
+- references **http://www.cluemediator.com/login-app-create-login-form-in-reactjs-using-secure-rest-api-part-3**
+
+Politeknik Negeri Malang
 
